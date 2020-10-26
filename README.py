@@ -1,1 +1,2 @@
-okey now lets try pull of new conflict
+def bulochka(number):
+    return "bulochka"*number
